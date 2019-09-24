@@ -1,0 +1,17 @@
+2019-09-17 17:55:23,734 DEBUG [http-nio-8085-exec-2] userlogin:28 - Sample debug message
+ 2019-09-17 17:55:23,739  INFO [http-nio-8085-exec-2] userlogin:29 - Sample info message
+ 2019-09-17 17:55:23,739  WARN [http-nio-8085-exec-2] userlogin:30 - Sample warn message
+ 2019-09-17 17:55:23,740 ERROR [http-nio-8085-exec-2] userlogin:31 - Sample error message
+ 2019-09-17 17:55:23,740 FATAL [http-nio-8085-exec-2] userlogin:32 - Sample fatal message
+ 2019-09-17 17:55:24,735  INFO [http-nio-8085-exec-2] userlogin:44 - Login Successfull
+ 2019-09-17 20:52:28,516 DEBUG [http-nio-8085-exec-2] userlogin:28 - Sample debug message
+ 2019-09-17 20:52:28,524  INFO [http-nio-8085-exec-2] userlogin:29 - Sample info message
+ 2019-09-17 20:52:28,525  WARN [http-nio-8085-exec-2] userlogin:30 - Sample warn message
+ 2019-09-17 20:52:28,526 ERROR [http-nio-8085-exec-2] userlogin:31 - Sample error message
+ 2019-09-17 20:52:28,526 FATAL [http-nio-8085-exec-2] userlogin:32 - Sample fatal message
+ 2019-09-17 20:52:29,647  INFO [http-nio-8085-exec-2] userlogin:44 - Login Successfull
+ 2019-09-18 10:02:09,834  INFO [http-nio-8085-exec-6] Login:34 - login success...
+ 2019-09-18 10:42:07,518  INFO [http-nio-8085-exec-5] Login:34 - login success...
+ 2019-09-18 10:54:05,958  INFO [http-nio-8085-exec-3] Login:34 - login success...
+ 2019-09-18 10:56:06,646  INFO [http-nio-8085-exec-2] Login:34 - login success...
+ 
